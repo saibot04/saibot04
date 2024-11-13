@@ -50,7 +50,7 @@ Estoy en búsqueda de **oportunidades laborales** donde pueda aplicar mis conoci
 ## Contáctame
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0075b5?style=for-the-badge&logo=Linkedin&logoWidth=20)](https://www.linkedin.com/in/tobifernandez/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=541125021429&text&app_absent=0)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=541165664453&text&app_absent=0)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobias4385@gmail.com)
 
 <img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" height=40px width=100% style="margin: 0; padding:0;" />
