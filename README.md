@@ -2,10 +2,8 @@
 
 <h1>¡Hola! Soy Tobias, Bienvenid@ 👋</h1>
 
-- Actualmente estoy cursando **Licenciatura en Informática** y **Desarrollo Web Full Stack** en **EducaciónIT**.
-- Me apasiona el desarrollo de soluciones **Full Stack**, con experiencia en **front-end**, **back-end**, y **bases de datos**.
-- Trabajo en el proyecto **[Appunti](https://github.com/antonellapultrone/Appunti)**, un e-commerce desarrollado en el contexto de la **Fundación Pescar**.
-- Busco **oportunidades laborales** para seguir creciendo y aportar a proyectos innovadores.
+- Actualmente estoy cursando **Licenciatura en Informática** en la [Univerisdad Nacional del Oeste](https://www.uno.edu.ar/)
+- También soy parte de una beca de estudio de **Desarrollo Web Full Stack** en **EducaciónIT** junto a **Valtech**, **fundación Karuna** y **fundación Pescar**.
 
 ## Tecnologías que uso
 
