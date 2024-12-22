@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" height=40px width=100% style="margin: 0; padding:0;" />
 
-<h1>¡Hola! Soy Tobias, Bienvenid@ 👋</h1>
+<h1>¡Hola! Soy Tobias, Bienvenido 👋</h1>
 
 - Actualmente estoy cursando **Licenciatura en Informática** en la [Univerisdad Nacional del Oeste](https://www.uno.edu.ar/)
 - También soy parte de una beca de estudio de **Desarrollo Web Full Stack** en **EducaciónIT** junto a **Valtech**, **fundación Karuna** y **fundación Pescar**.
